@@ -37,4 +37,4 @@ Open cmd there
 
 ## Limitations
 - It works on windows only
-- Now it can download post from facebook page only.
+- Now it can download post from facebook pages only.
