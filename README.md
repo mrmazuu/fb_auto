@@ -1,7 +1,7 @@
 
 # FB AUTO
 
-Fb auto is a python script that is use to scrap facebook posts and upload them at own facebook acc
+Fb auto is a python script that is use to scrap facebook posts and upload them at own facebook account.
 
 ## Features
 
