@@ -7,6 +7,7 @@ Fb auto is a python script that is use to scrap facebook posts and upload them a
 
 - Download post from any facebook page.
 - Upload post on own timeline.
+- Save post at a separate directory also.
 
 
 ## Requirements
