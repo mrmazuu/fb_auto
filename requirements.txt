@@ -1,0 +1,5 @@
+wget == 3.2
+selenium == 4.2.0
+pyautogui == 0.9.53
+opencv-python == 4.6.0.66
+webdriver_manager == 3.8.2
